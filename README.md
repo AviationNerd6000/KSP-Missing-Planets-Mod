@@ -9,3 +9,4 @@ Unadded planets
 - Gex Juni moon
 - Tiberious Juni moon
 - Mez "Super kerbin"
+- Mandrake and Rutherford (binary planet system)
