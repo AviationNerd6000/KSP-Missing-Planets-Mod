@@ -1,27 +1,28 @@
 Unadded planets
-- ~~Meander gas giant with 20 moons~~
-   - Added the planet no moos
-- Faz crystal moon for meander
-- Jall another moon for meander
+- ~~Meander gas giant with 20 moons~~ - Red
+   - Added the planet no moons
+- Faz crystal moon for eve - Purple
+- Jall another moon for eve 
 - ~~harvest kerbin but on opposite side of the sun~~
    - Added
-- ~~Xubol a lava planet~~
+- ~~Xubol a lava planet~~ - Orange
   - Added
 ~~- Juni giant planet with 30 small moons~~
   - Added the planet not moons
 - Juni mo a moon of juni bigger than kerbin has rings
 - Gex, Juni moon
 - Tiberious Juni moon
-- Mez "Super kerbin"
-- Mandrake and Rutherford (binary planet system)
-- ~~Ralph ice planet~~
+- Mez "Super kerbin" - Beige
+- Mandrake and Rutherford (binary gas planet system) - Blue
+- ~~Ralph ice planet~~ - Light Blue
   - Added
 - Ralph Jr Moon of Ralph
-- ~~Gas planet 2~~
+- ~~Gas planet 2~~ - Green
   - Added
 - ~~Gas planet 3 not actually a gas planet~~
   - Added
 - Funzo moon of gas planet 2 has mountains that streech into space
-- Planet X a planet far out from eeloo
-- ~~Rupa Moon of kerbin~~
+- ~~Planet X a planet far out from eeloo~~
+   - Added  
+- ~~Rupa Moon of kerbin~~ - Redish
   - Added
