@@ -1,5 +1,5 @@
 Unadded planets
-- ~~Meander gas giant with 20 moons~~ - Red
+- ~~Meander gas giant with 20 moons~~ - Green
    - Added the planet no moons
 - Faz crystal moon for eve - Purple
 - Jall another moon for eve 
@@ -17,7 +17,7 @@ Unadded planets
 - ~~Ralph ice planet~~ - Light Blue
   - Added
 - Ralph Jr Moon of Ralph
-- ~~Gas planet 2~~ - Green
+- ~~Gas planet 2~~ - Red
   - Added
 - ~~Gas planet 3 not actually a gas planet~~
   - Added
