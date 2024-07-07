@@ -1,11 +1,11 @@
 Unadded planets
-- Meander - gas giant with 20 moons
+- ~~Meander - gas giant with 20 moons~~
    - Added the planet no moos
 - Faz crystal moon for meander
 - Jall another moon for meander
-~~- harvest kerbin but on opposite side of the sun~~
+- ~~harvest kerbin but on opposite side of the sun~~
    - Added
-~~- Xubol a lava planet~~
+- ~~Xubol a lava planet~~
   - Added
 ~~- Juni - giant planet with 30 small moons~~
   - Added the planet not moons
