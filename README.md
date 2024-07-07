@@ -10,3 +10,10 @@ Unadded planets
 - Tiberious Juni moon
 - Mez "Super kerbin"
 - Mandrake and Rutherford (binary planet system)
+- Ralph ice planet
+- Ralph Jr Moon of Ralph
+- Gas planet 2
+- Gas planet 3 not actually a gas planet
+- Funzo moon of gas planet 2 has mountains that streech into space
+- Planet X a planet far out from eeloo
+- Rupa Moon of kerbin
